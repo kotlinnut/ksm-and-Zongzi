@@ -1,5 +1,1 @@
-# 指定所有 C# 文件使用 C# 语言
-*.cs linguist-language=C#
-
-# 如果有其他文件（如 .unity）也想计入 C# 语言统计
-*.unity linguist-language=C#
+* linguist-language=C#
